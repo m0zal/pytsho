@@ -1,0 +1,3 @@
+*.pyc
+djstore/media
+djstore/local_settings.py
